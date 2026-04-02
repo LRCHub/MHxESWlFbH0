@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Ainsi bas la vida",
+  "base_artist": "Indila",
+  "createdAt": "2026-04-02T08:45:12.620536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ainsi bas la vida",
+      "artist": "Indila",
+      "has_synced": true,
+      "path": "select/01_Ainsi_bas_la_vida_Indila.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ainsi bas la vida",
+      "artist": "Indila",
+      "has_synced": true,
+      "path": "select/02_Ainsi_bas_la_vida_Indila.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ainsi Bas La Vida",
+      "artist": "Indila",
+      "has_synced": true,
+      "path": "select/03_Ainsi_Bas_La_Vida_Indila.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ainsi bas la vida",
+      "artist": "Indila",
+      "has_synced": true,
+      "path": "select/04_Ainsi_bas_la_vida_Indila.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ainsi bas la vida",
+      "artist": "Indila",
+      "has_synced": true,
+      "path": "select/05_Ainsi_bas_la_vida_Indila.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ainsi bas la vida",
+      "artist": "Indila",
+      "has_synced": true,
+      "path": "select/06_Ainsi_bas_la_vida_Indila.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ainsi bas la vida",
+      "artist": "Indila, Skalpovich",
+      "has_synced": true,
+      "path": "select/07_Ainsi_bas_la_vida_Indila,_Skalpovich.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ainsi bas la vida",
+      "artist": "Indila - Topic",
+      "has_synced": true,
+      "path": "select/08_Ainsi_bas_la_vida_Indila_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Indila - Ainsi Bas La Vida (Lyrics)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/09_Indila_-_Ainsi_Bas_La_Vida_(Lyrics)_7clouds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ainsi Bas La Vida",
+      "artist": "Indila",
+      "has_synced": true,
+      "path": "select/10_Ainsi_Bas_La_Vida_Indila.lrc"
+    }
+  ]
+}
